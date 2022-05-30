@@ -1,13 +1,13 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Dr. Norman Borlaug Blog
 
-> Description the project.
+> This is a blog about Dr. Norman Borlaug showing his main contributions to the worlds life.
 
 
 ## Built With
 
-- Major languages
+- Major languages: html & css
 - Frameworks
 - Technologies used
 
@@ -42,15 +42,12 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/jaferIdrees)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Fav-Genius)
+
 
 ## 🤝 Contributing
 
